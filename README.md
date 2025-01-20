@@ -1,6 +1,6 @@
 # MK-Extractor
 
-MK Extractor is a licensed tool designed to connect to user profiles like OFFICE365 & Gmail to extract leads, email messages, and URLs. Only users with authorized licenses can access and use this tool.
+MK Extractor is a licensed tool designed to connect to user profiles like Office365 & Gmail to extract leads, email messages, and URLs. Only users with authorized licenses can access and use this tool.
 
 # Features
 Connect to OFFICE USING MS-GRAPH.
